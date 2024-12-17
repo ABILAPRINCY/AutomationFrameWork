@@ -6,7 +6,7 @@ public class DEBUGEX1
 	public static void main(String[] args) 
 	{
 		WebDriver driver=new ChromeDriver();
-		driver.get("http:www.flipkart.com");
+		driver.get("http:www.amazon.com");
 		driver.manage().window().maximize();
 
 		//PULL BACK
