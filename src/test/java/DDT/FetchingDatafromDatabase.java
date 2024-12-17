@@ -1,0 +1,10 @@
+package DDT;
+
+public class FetchingDatafromDatabase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
